@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Mon May 23 17:21:58 KST 2022
+3.set=NATIVE_RESOURCE
+3.path=lib/arm64-v8a/libnaverspeech-sdk-c.so
+2.base=D\:\\EPDTypeAutoSample\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+0.path=lib/armeabi-v7a/libnaverspeech-sdk-c.so
+5.base=D\:\\EPDTypeAutoSample\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+0.base=D\:\\EPDTypeAutoSample\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+3.base=D\:\\EPDTypeAutoSample\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+5.path=lib/arm64-v8a/libz.so
+3.baseType=DIRECTORY
+1.path=classes.dex
+4.set=ASSET
+0.baseType=DIRECTORY
+0.set=NATIVE_RESOURCE
+5.baseType=DIRECTORY
+4.path=roots.pem
+count=6
+5.set=NATIVE_RESOURCE
+1.set=DEX
+2.path=lib/armeabi-v7a/libz.so
+2.baseType=DIRECTORY
+2.set=NATIVE_RESOURCE
+1.baseType=DIRECTORY
+4.base=D\:\\EPDTypeAutoSample\\app\\build\\intermediates\\merged_assets\\debug\\out
+1.base=D\:\\EPDTypeAutoSample\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+4.baseType=DIRECTORY

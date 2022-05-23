@@ -1,0 +1,110 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml:1:1-22:12
+INJECTED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml:1:1-22:12
+INJECTED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml:1:1-22:12
+INJECTED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml:1:1-22:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\ef862a0d290230827a3ea59740b6e44b\AndroidManifest.xml:17:1-27:12
+MERGED from [com.naver.speech.clientapi:naverspeech-ncp-sdk-android:1.1.8] C:\Users\user\.gradle\caches\transforms-2\files-2.1\560c6ac4d82e5f212a4109451e7e47be\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\88e546534fe12859722a18c653a61109\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\4a46c378668771d366083895a762fac3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\312fdb159615dc4f73d143fa69f81c47\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml:1:1-22:12
+INJECTED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml:1:1-22:12
+INJECTED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml:1:1-22:12
+	package
+		ADDED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml:2:5-43
+		INJECTED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml
+		INJECTED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml
+		ADDED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml:1:1-22:12
+		INJECTED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml
+		ADDED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml:1:1-22:12
+		INJECTED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml:3:5-67
+MERGED from [com.naver.speech.clientapi:naverspeech-ncp-sdk-android:1.1.8] C:\Users\user\.gradle\caches\transforms-2\files-2.1\560c6ac4d82e5f212a4109451e7e47be\AndroidManifest.xml:12:5-67
+MERGED from [com.naver.speech.clientapi:naverspeech-ncp-sdk-android:1.1.8] C:\Users\user\.gradle\caches\transforms-2\files-2.1\560c6ac4d82e5f212a4109451e7e47be\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml:3:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml:4:5-71
+	android:name
+		ADDED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml:4:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml:5:5-81
+MERGED from [com.naver.speech.clientapi:naverspeech-ncp-sdk-android:1.1.8] C:\Users\user\.gradle\caches\transforms-2\files-2.1\560c6ac4d82e5f212a4109451e7e47be\AndroidManifest.xml:11:5-81
+MERGED from [com.naver.speech.clientapi:naverspeech-ncp-sdk-android:1.1.8] C:\Users\user\.gradle\caches\transforms-2\files-2.1\560c6ac4d82e5f212a4109451e7e47be\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml:6:22-77
+application
+ADDED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml:7:5-20:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\ef862a0d290230827a3ea59740b6e44b\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\ef862a0d290230827a3ea59740b6e44b\AndroidManifest.xml:25:5-20
+MERGED from [com.naver.speech.clientapi:naverspeech-ncp-sdk-android:1.1.8] C:\Users\user\.gradle\caches\transforms-2\files-2.1\560c6ac4d82e5f212a4109451e7e47be\AndroidManifest.xml:14:5-15:19
+MERGED from [com.naver.speech.clientapi:naverspeech-ncp-sdk-android:1.1.8] C:\Users\user\.gradle\caches\transforms-2\files-2.1\560c6ac4d82e5f212a4109451e7e47be\AndroidManifest.xml:14:5-15:19
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\88e546534fe12859722a18c653a61109\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\88e546534fe12859722a18c653a61109\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\4a46c378668771d366083895a762fac3\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\4a46c378668771d366083895a762fac3\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\312fdb159615dc4f73d143fa69f81c47\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\312fdb159615dc4f73d143fa69f81c47\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml:9:9-45
+	android:allowBackup
+		ADDED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.naver.naverspeech.client.MainActivity
+ADDED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml:13:19-75
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml
+INJECTED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\ef862a0d290230827a3ea59740b6e44b\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\ef862a0d290230827a3ea59740b6e44b\AndroidManifest.xml:21:5-23:78
+MERGED from [com.naver.speech.clientapi:naverspeech-ncp-sdk-android:1.1.8] C:\Users\user\.gradle\caches\transforms-2\files-2.1\560c6ac4d82e5f212a4109451e7e47be\AndroidManifest.xml:7:5-9:41
+MERGED from [com.naver.speech.clientapi:naverspeech-ncp-sdk-android:1.1.8] C:\Users\user\.gradle\caches\transforms-2\files-2.1\560c6ac4d82e5f212a4109451e7e47be\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\88e546534fe12859722a18c653a61109\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\88e546534fe12859722a18c653a61109\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\4a46c378668771d366083895a762fac3\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\4a46c378668771d366083895a762fac3\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\312fdb159615dc4f73d143fa69f81c47\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\312fdb159615dc4f73d143fa69f81c47\AndroidManifest.xml:20:5-43
+INJECTED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml
+INJECTED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\ef862a0d290230827a3ea59740b6e44b\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml
+		ADDED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml
+		INJECTED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml
+		ADDED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml
+		INJECTED from D:\EPDTypeAutoSample\app\src\main\AndroidManifest.xml
